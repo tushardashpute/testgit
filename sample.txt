@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Word!!!!!!!!!!!!tes
+=======
+Hello Word!!!
+>>>>>>> new_branch
